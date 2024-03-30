@@ -6,13 +6,6 @@ This project implements a movie recommendation system using collaborative filter
 
 **_NOTE:_** For now the click functionality is under development so instead inorder to get things done just update the **watched** field in the database manually (using django admin).
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 ### Prerequisites
